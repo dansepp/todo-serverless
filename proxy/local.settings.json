@@ -1,0 +1,20 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "4c898750-ecd0-4a38-a93b-c7de946bc287",
+    "STORAGE_KEY": "0r4I1PPH9FvcBSzGvKIKboJZJXVCpb9VW5Hw3bRhF/wV0QBeviVqBFILPaf6ss7vOsUfz5+K2Jkq5Nv2njL28A==",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=serverlesstodostorage;AccountKey=WM2RLkKzJqN2KDypGYdQkK9xcFJoAy1wGkV30nsjrN9MBzVkggH5bIkdywcytyBgqBMa19GGH6W+fizDGnAdqQ==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=serverlesstodostorage;AccountKey=WM2RLkKzJqN2KDypGYdQkK9xcFJoAy1wGkV30nsjrN9MBzVkggH5bIkdywcytyBgqBMa19GGH6W+fizDGnAdqQ==",
+    "WEBSITE_CONTENTSHARE": "todo-serverlessac22",
+    "TODO_STORAGE_CONNECTION": "DefaultEndpointsProtocol=https;AccountName=todolistdata;AccountKey=4/elzlrMuHHuWQQHuCFD1/g2S1Jgu14F26JvdL4vPQ1iICfXDR9AzbH3gVgNxRISyk3At5YTMTBGbSKL9FIfvA==",
+    "WEBSITE_SITE_NAME": "todo-serverless",
+    "STORAGE_CONNECTION": "DefaultEndpointsProtocol=https;AccountName=todolist;AccountKey=0r4I1PPH9FvcBSzGvKIKboJZJXVCpb9VW5Hw3bRhF/wV0QBeviVqBFILPaf6ss7vOsUfz5+K2Jkq5Nv2njL28A==;EndpointSuffix=core.windows.net",
+    "STORAGE_HOSTNAME": "todolist.blob.core.windows.net",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=serverlesstodostorage;AccountKey=WM2RLkKzJqN2KDypGYdQkK9xcFJoAy1wGkV30nsjrN9MBzVkggH5bIkdywcytyBgqBMa19GGH6W+fizDGnAdqQ=="
+  }
+}

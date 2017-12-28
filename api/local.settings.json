@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "414e9e7b-c06e-4c1d-90ee-1a506861517d",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=serverlesstodostorage;AccountKey=WM2RLkKzJqN2KDypGYdQkK9xcFJoAy1wGkV30nsjrN9MBzVkggH5bIkdywcytyBgqBMa19GGH6W+fizDGnAdqQ==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=serverlesstodostorage;AccountKey=WM2RLkKzJqN2KDypGYdQkK9xcFJoAy1wGkV30nsjrN9MBzVkggH5bIkdywcytyBgqBMa19GGH6W+fizDGnAdqQ==",
+    "WEBSITE_CONTENTSHARE": "todo-serverless-apib954",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "TODO_STORAGE_CONNECTION": "DefaultEndpointsProtocol=https;AccountName=todolistdata;AccountKey=4/elzlrMuHHuWQQHuCFD1/g2S1Jgu14F26JvdL4vPQ1iICfXDR9AzbH3gVgNxRISyk3At5YTMTBGbSKL9FIfvA==",
+    "WEBSITE_SITE_NAME": "todo-serverless-api",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=serverlesstodostorage;AccountKey=WM2RLkKzJqN2KDypGYdQkK9xcFJoAy1wGkV30nsjrN9MBzVkggH5bIkdywcytyBgqBMa19GGH6W+fizDGnAdqQ=="
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "bindings": [
+    {
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "get"
+      ],
+      "authLevel": "anonymous",
+      "route": "v1/todo/{id}"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "type": "table",
+      "name": "inTable",
+      "tableName": "todos",
+      "connection": "TODO_STORAGE_CONNECTION",
+      "direction": "in"
+    }
+  ],
+  "disabled": false
+}

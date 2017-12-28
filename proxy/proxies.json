@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json.schemastore.org/proxies",
+    "proxies": {
+        "Root": {
+            "matchCondition": {
+                "route": "/"
+            },
+            "backendUri": "https://%STORAGE_HOSTNAME%/www/index.html"
+        },
+        "Path": {
+            "matchCondition": {
+                "route": "/{*restOfPath}"
+            },
+            "backendUri": "https://%STORAGE_HOSTNAME%/www/{restOfPath}"
+        },
+        "JQuery": {
+            "matchCondition": {
+                "route": "/jquery"
+            },
+            "backendUri": "https://%STORAGE_HOSTNAME%/www/jquery/index.html"
+        },
+        "API V1": {
+            "matchCondition": {
+                "route": "/api/{*restOfPath}"
+            },
+            "backendUri": "https://todo-serverless-api.azurewebsites.net/api/v1/{restOfPath}"
+        }
+    }
+}
